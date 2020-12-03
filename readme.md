@@ -16,6 +16,6 @@ While the COVID-19 pandemic continues to impact circumstances, travel is another
 
 A <i>National Geographic Magazine</i> reporter details a new travel routine to keep the traveler and those at the destination safe in [an article posted around the Thanksgiving holiday](https://www.nationalgeographic.com/travel/2020/11/how-to-minimize-coronavirus-risk-during-your-holiday-trip/#close). This application provides tips and suggestions from the reporter to prepare for safe travel this holiday season.
 
-Source: Nsikan Akpan, National Geographic Magazine ©. 2020. How to limit your COVID-19 risk during holiday travel. [https://www.nationalgeographic.com/travel/2020/11/how-to-minimize-coronavirus-risk-during-your-holiday-trip/#close](https://www.nationalgeographic.com/travel/2020/11/how-to-minimize-coronavirus-risk-during-your-holiday-trip/#close) (last accessed 1 December 2020).
+Source: Nsikan Akpan, National Geographic Magazine ©. 2020. How to limit your COVID-19 risk during holiday travel. [https://www.nationalgeographic.com/travel/2020/11/how-to-minimize-coronavirus-risk-during-your-holiday-trip/#close](https://www.nationalgeographic.com/travel/2020/11/how-to-minimize-coronavirus-risk-during-your-holiday-trip/#close) (last accessed 3 December 2020).
 
 Created by [Jessica Mitchell](https://github.com/mitchelljh) | December 8, 2020
